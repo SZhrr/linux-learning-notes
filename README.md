@@ -13,15 +13,13 @@ This repository contains notes and commands I learned while setting up and manag
 - Basic system administration
 
 ## Useful Commands
-
 ### Navigation
 ```bash
 pwd
 ls
 cd
 ```
-
-## File Management
+### File Management
 ```bash
 mkdir test
 touch file.txt
@@ -29,8 +27,7 @@ cp file.txt backup.txt
 mv file.txt folder/
 rm file.txt
 ```
-
-## Permissions
+### Permissions
 ```bash
 chmod 755 file.sh
 chown user:user file.txt
