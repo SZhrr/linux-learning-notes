@@ -21,15 +21,17 @@ ls
 cd
 ```
 
-File Management -
+## File Management
+```bash
 mkdir test
 touch file.txt
 cp file.txt backup.txt
 mv file.txt folder/
 rm file.txt
+```
 
-
-Permissions -
+## Permissions
+```bash
 chmod 755 file.sh
 chown user:user file.txt
 Package Management
@@ -38,8 +40,8 @@ sudo apt upgrade
 sudo apt install nginx
 SSH Access
 ssh username@server-ip
+```
 
-
-Environment -
+## Environment
 Ubuntu Linux
 Bash terminal
